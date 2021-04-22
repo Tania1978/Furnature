@@ -1,3 +1,10 @@
+An E-Shop Platform 
+Back End: MySQL, Spring Boot REST
+Front End: Html Css Javascript Bootstrap Jquery
+
+
+
+
 General info:
 1) Backend was built with Java 8, you might wanna select appropriate JDK under groupproject properties-> compile-> Java Platform: JDK 1.8
   
